@@ -63,6 +63,7 @@ require_once "dbcon.php";
                     <td><?= $row["id"]; ?></td>
                     <td><?= $row["Project_Name"]; ?></td>
                     <td><?= $row["Group_employees"]; ?></td>
+                    <td><a class="a_delete" href="delete_proj.php?id=<?= $row["id"] ?>">Delete</a></td>
                 </tr>
         <?php
 

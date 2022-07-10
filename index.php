@@ -71,6 +71,7 @@ require "functions.php";
                     <td><?= $row["id"]; ?></td>
                     <td><?= $row["name"]; ?></td>
                     <td><?= $row["Project_Name"]; ?></td>
+                    <td><a class="a_delete" href="delete_empl.php?id=<?= $row["id"] ?>">Delete</a></td>
                 </tr>
 
         <?php
