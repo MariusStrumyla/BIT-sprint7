@@ -44,7 +44,7 @@
 * relaod schema for tables to appear;
 
 - run XAMPP. Start Apache and MySQL;
-- opne browser and type `loclahost/BIT-sprint7/`.
+- opne browser and type `localhost/BIT-sprint7/`.
 
 # Author
 
